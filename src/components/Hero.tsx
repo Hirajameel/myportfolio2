@@ -16,9 +16,9 @@ const Hero = () => {
 
           <div className='hero-text'>
             <div className='hero-main'>
-              <p data-aos="zoom-in-left">Hi, I'am</p>
+              <p data-aos="zoom-in-left">Hi I am</p>
               <p data-aos="zoom-in-left">Hira</p>
-              <p data-aos="zoom-in-left">Jameel,</p>
+              <p data-aos="zoom-in-left">Jameel</p>
               <p data-aos="zoom-in-left">a passionate</p>
               <p data-aos="zoom-in-left">Front-end </p>
               <p data-aos="zoom-in-left">Developer</p>
