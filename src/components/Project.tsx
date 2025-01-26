@@ -46,6 +46,21 @@ const data=[
     img: "/project_06.png",
     tags: ["HTML", "NODE","CSS" ,"TAILWIND", "NEXT.JS"]
   },
+  {
+    id: 6,
+    title: "Multi-Web pages",
+    desc: "This is a furniture e-commerce website that has been built using a Figma template, Next.js, Sanity, and APIs. All necessary functionalities have been implemented in it..",
+    img: "/Screenshot (77).png",
+    tags: ["HTML", "NODE","CSS","TAILWIND" ,"NEXT.JS",]
+  },
+  
+  {
+    id: 7,
+    title: "E-commerce Website",
+    desc: "This is a multi-web-page website built using Next.js with custom CSS. It includes components for Home, About, Contact, and Watches..",
+    img: "/project-08.png",
+    tags: ["HTML", "NODE" ,"TAILWIND", "NEXT.JS","SANITY",]
+  },
   
 
 

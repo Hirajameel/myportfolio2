@@ -5,8 +5,8 @@ const Skills = () => {
   return (
     <div id='skills' className="skills-container">
         <div className="skills-grid">
-            <div data-aos="zoom-in-left" className='skills-left'>
-                <h2 className="skills-heading">Technologies I Work With</h2>
+            <div className='skills-left'>
+                <h2 className="skills-heading  ">Technologies I Work With</h2>
                 <p className="skills-text">
                 My expertise in HTML CSS JavaScript and TypeScript forms a strong foundation for creating modern, 
                 interactive and visually appealing web applications. With HTML I focus on building well-structured and accessible layouts. 
@@ -18,15 +18,15 @@ const Skills = () => {
                 <div className="skills-right">
                     <div className='skilla-icons-grid'></div>
                     <div className="skills-space">
-                     <h2 data-aos="zoom-in-left">TYPESCRIPT</h2>
-                     <h2 data-aos="zoom-in-left">JAVASCRIPT</h2>
-                     <h2 data-aos="zoom-in-left">HTML</h2>
-                     <h2 data-aos="zoom-in-left">CSS</h2>
+                     <h2>TYPESCRIPT</h2>
+                     <h2>JAVASCRIPT</h2>
+                     <h2>HTML</h2>
+                     <h2>CSS</h2>
                     </div><br/>
                     <div className="skills-space">
-                     <h2 data-aos="zoom-in-left">NEXT.JS</h2>
-                     <h2 data-aos="zoom-in-left">TAILWIND</h2>
-                     <h2 data-aos="zoom-in-left">NODE.JS</h2>
+                     <h2>NEXT.JS</h2>
+                     <h2>TAILWIND</h2>
+                     <h2>NODE.JS</h2>
 
                     </div>
 

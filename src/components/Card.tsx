@@ -1,6 +1,11 @@
 import React from 'react';
 import Image from 'next/image';
 import '../app/styles/card.css';
+
+
+
+
+
 interface propstype {
     title: string;
     desc: string;
