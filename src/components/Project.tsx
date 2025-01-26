@@ -2,7 +2,7 @@ import React from 'react'
 import Heading from './Heading'
 import Card from './Card'
 import '../app/styles/project.css';
-import { useEffect } from "react";
+
 
 const data=[
   {
