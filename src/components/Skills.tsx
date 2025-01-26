@@ -1,6 +1,6 @@
 import React from 'react'
 import '../app/styles/skills.css';
-
+import { useEffect } from "react";
 const Skills = () => {
   return (
     <div id='skills' className="skills-container">
