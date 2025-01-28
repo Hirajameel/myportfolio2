@@ -1,8 +1,9 @@
 
 import React from 'react'
-import { GrMailOption } from "react-icons/gr";
+
 import { BsTelephoneFill } from "react-icons/bs";
 import '../app/styles/contact.css';
+import { FaLinkedinIn } from "react-icons/fa";
 
 const Contact = () => {
   return (
@@ -14,11 +15,11 @@ const Contact = () => {
                 Thank you for visiting my portfolio! If youre interested in working together have any questions or simply want to chat about potential projects feel free to get in touch. Im always excited to connect with creative minds and explore new opportunities.
                  Lets bring your ideas to life!
                 </p>
-                <div className="contact-flex" data-aos="zoom-in-left">
-                <GrMailOption size={30}/>hirajamil786@gmail.com
+                <div className="contact-flex" >
+                <FaLinkedinIn size={30}/> <a href="https://www.linkedin.com/in/hira-jameel-2a79102ba" target="_blank">www.LinkedIncom</a>
                 </div>
-                <div className="contact-flex" data-aos="zoom-in-left">
-                <BsTelephoneFill size={30}/>(031)-666-536
+                <div className="contact-flex">
+                < BsTelephoneFill size={30}/>(031)-666-536
                 </div>
                 
             </div>
