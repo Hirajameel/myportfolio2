@@ -9,14 +9,14 @@ const data=[
     id:0,
     title:"Static Interactive Resume",
     desc:"Built with HTML,CSS,TYPESCRIPT and JAVASCRIPT,allowing user to showcase their skills.It generates a clean, downloadable, and shareable resume ijn a static format.",
-    img:"/project_01.png",
+    img:"/Screenshot (70).png",
     tags:["HTML", "Node" ,"CSS","TYPESCRIPT","JAVASCRIPT"],
   },
   {
     id:1,
     title:"Dynamic Resume Builder",
     desc:"Dynamic Resume Builder built with HTML,CSS,TYPESCRIPT and JAVASCRIPT , allowing user to create customized, professional resumes efficiently.",
-    img:"/project_02.png",
+    img:"/Screenshot (72).png",
     tags:["HTML", "Node" ,"CSS","TYPESCRIPT","JAVASCRIPT"],
   },
   {
@@ -29,14 +29,14 @@ const data=[
    {id:3,
     title:"Editable Resume Builder",
     desc:"Built with HTML,CSS,TYPESCRIPT and JAVASCRIPT offers flexibility to adjust and tailor every part of the resume according to the user's preferences.",
-    img:"/project_04.png",
+    img:"/Screenshot (73).png",
     tags:["HTML", "NODE" ,"CSS","TYPESCRIPT","JAVASCRIPT"],
   },
   {
     id:4,
     title:"Backatown Coffee Website",
     desc:"The website serves as a virtual extension of the shop, providing visitors with an immersive experience that reflects the warmth and charm of the physical location.",
-    img:"/project_05.png",
+    img:"/Screenshot (64).png",
     tags:["HTML", "NODE" ,"CSS","TYPEESCRIPT","JAVASCRIPT"],
   },
   {
@@ -61,7 +61,13 @@ const data=[
     img: "/Screenshot (76).png",
     tags: ["HTML", "NODE" ,"TAILWIND", "NEXT.JS","SANITY",]
   },
-  
+  {
+    id: 8,
+    title: "Shareable Resume Builder",
+    desc: "Built with HTML, CSS, TypeScript, and JavaScript, this shareable resume builder offers the flexibility to tailor every part of your resume to your unique preferences, allowing users to input their data and download the final version as a PDF.",
+    img: "/Screenshot (74).png",
+    tags: ["HTML", "NODE" ,"TAILWIND", "NEXT.JS","SANITY",]
+  },
 ]
 
 const Project = () => {
