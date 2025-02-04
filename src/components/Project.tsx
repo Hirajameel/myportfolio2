@@ -58,12 +58,10 @@ const data=[
     id: 7,
     title: "E-commerce Website",
     desc: "This is a multi-web-page website built using Next.js with custom CSS. It includes components for Home, About, Contact, and Watches..",
-    img: "/project-08.png",
+    img: "/Screenshot (76).png",
     tags: ["HTML", "NODE" ,"TAILWIND", "NEXT.JS","SANITY",]
   },
   
-
-
 ]
 
 const Project = () => {
