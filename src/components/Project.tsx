@@ -23,7 +23,7 @@ const data=[
     id: 2,
     title: "Web Design,Development",
     desc: "A responsive and modern webpage built using HTML, Node.js, CSS, and TypeScript to demonstrate seamless integration of frontend and backend technologies.",
-    img: "/project_03.png",
+    img: "/Screenshot (63).png",
     tags: ["HTML", "Node", "CSS", "TYPESCRIPT","JAVASCRIPT"]
   },
    {id:3,
@@ -43,7 +43,7 @@ const data=[
     id: 5,
     title: "My Portfolio Website",
     desc: "Website built to showcase skills, projects, and achievements. The site features a modern design with responsive layouts, highlighting expertise in web development and AI.",
-    img: "/project_06.png",
+    img: "/Screenshot (59).png",
     tags: ["HTML", "NODE","CSS" ,"TAILWIND", "NEXT.JS"]
   },
   {
